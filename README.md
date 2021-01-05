@@ -1,2 +1,2 @@
-# Weather-App
-Fetching your current weather in your city. 
+# Weather-App.
+Know your city weather.
